@@ -1,4 +1,4 @@
--- Label by Alvise1309 for no reasons, told by someone full of herself lol
+-- Labeled by Alvise1309 for no reasons, told by someone full of herself lol
 
 local DS = game:GetService("DataStoreService"):GetDataStore("UserData1") -- Gets the DataStore named "UserData1" from the DataStoreService
 -- Using DataStore is a lot unreliable and may cause on loss of data, so I reccomend using DataStore2 or DataStoreX but whatever
